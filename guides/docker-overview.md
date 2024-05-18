@@ -120,6 +120,6 @@
 
 ## Next steps
 
-- Install Docker
+- Get Docker
 
-- Get started with Docker
+- Get started > Getting started guide > Part 1:Overview

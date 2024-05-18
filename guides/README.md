@@ -1,14 +1,20 @@
 # Guides
 
-## Foundations of Docker
+## Features
+
+- This section contains guides to help you get started and learn how Docker can optimize your development workflows.
+
+## Contents
+
+### Foundations of Docker
 
 - [Docker overview](docker-overview.md)
 
-- Get started
+- [Get started](get-started)
 
 - Docker concepts
 
-## Advancing with Docker
+### Advancing with Docker
 
 - Language-specific guides
 
@@ -20,8 +26,8 @@
 
 - Deployment and Orchestration
 
-## Educational resources and contributions
+### Educational resources and contributions
 
 - Educational resources
 
-- Contribute to Docker's docs
+- Contribute
