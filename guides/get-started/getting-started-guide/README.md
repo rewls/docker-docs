@@ -14,9 +14,9 @@
 
 - Part 6: User bind mounts
 
-- Part 7: Multi-container apps
+- [Part 7: Multi-container apps](07-multi-container-apps.md)
 
-- Part 8: Use Docker Compose
+- [Part 8: Use Docker Compose](08-use-docker-compose.md)
 
 - Part 9: Image-building test practices
 
